@@ -1,0 +1,32 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.grupo-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-nav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.Secciones{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Secciones article{
+    padding-left: 20px;
+}
+
+.Sobre mí{
+    padding-left: 20px;
+}
