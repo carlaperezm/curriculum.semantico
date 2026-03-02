@@ -27,6 +27,10 @@ header {
     padding-left: 20px;
 }
 
-.Sobre mí{
-    padding-left: 20px;
+.Sobre mi{
+    padding-right: 50px;
+}
+
+.grupo-flex{
+    flex-wrap: wrap;
 }
